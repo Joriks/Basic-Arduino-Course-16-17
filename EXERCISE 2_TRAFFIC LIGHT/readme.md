@@ -15,9 +15,10 @@ Una vez realizado correctamente el ejercicio anterior, no debe resultarte nada d
 - 1 CABLE USB
 - CABLES MACHO-MACHO
 
-El esquema a seguir para este ejercicio es el que se muestra en el siguiente archivo:
+El esquema a seguir para este ejercicio es el que se muestra en la siguiente imagen:
 
-VER: ESQUEMA2_SEMAFORO.jpg
+![Alt text](ESQUEMA2_SEMAFORO.jpg?raw=true "ESQUEMA2_SEMAFORO")
+
 
 
 
